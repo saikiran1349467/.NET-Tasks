@@ -1,0 +1,10 @@
+C:\Users\Saikiran_Bekkanti\source\repos\VbLibrary\csharpLibrary\bin\Debug\csharpLibrary.dll
+C:\Users\Saikiran_Bekkanti\source\repos\VbLibrary\csharpLibrary\bin\Debug\csharpLibrary.pdb
+C:\Users\Saikiran_Bekkanti\source\repos\VbLibrary\csharpLibrary\bin\Debug\VbLibrary.dll
+C:\Users\Saikiran_Bekkanti\source\repos\VbLibrary\csharpLibrary\bin\Debug\VbLibrary.pdb
+C:\Users\Saikiran_Bekkanti\source\repos\VbLibrary\csharpLibrary\bin\Debug\VbLibrary.xml
+C:\Users\Saikiran_Bekkanti\source\repos\VbLibrary\csharpLibrary\obj\Debug\csharpLibrary.csproj.AssemblyReference.cache
+C:\Users\Saikiran_Bekkanti\source\repos\VbLibrary\csharpLibrary\obj\Debug\csharpLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Saikiran_Bekkanti\source\repos\VbLibrary\csharpLibrary\obj\Debug\csharpLibrary.csproj.CopyComplete
+C:\Users\Saikiran_Bekkanti\source\repos\VbLibrary\csharpLibrary\obj\Debug\csharpLibrary.dll
+C:\Users\Saikiran_Bekkanti\source\repos\VbLibrary\csharpLibrary\obj\Debug\csharpLibrary.pdb

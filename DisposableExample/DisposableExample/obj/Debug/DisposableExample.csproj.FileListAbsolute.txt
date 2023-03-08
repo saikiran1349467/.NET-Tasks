@@ -1,0 +1,8 @@
+C:\Users\Saikiran_Bekkanti\source\repos\DisposableExample\DisposableExample\bin\Debug\DisposableExample.exe.config
+C:\Users\Saikiran_Bekkanti\source\repos\DisposableExample\DisposableExample\bin\Debug\DisposableExample.exe
+C:\Users\Saikiran_Bekkanti\source\repos\DisposableExample\DisposableExample\bin\Debug\DisposableExample.pdb
+C:\Users\Saikiran_Bekkanti\source\repos\DisposableExample\DisposableExample\obj\Debug\DisposableExample.csproj.AssemblyReference.cache
+C:\Users\Saikiran_Bekkanti\source\repos\DisposableExample\DisposableExample\obj\Debug\DisposableExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saikiran_Bekkanti\source\repos\DisposableExample\DisposableExample\obj\Debug\DisposableExample.csproj.CoreCompileInputs.cache
+C:\Users\Saikiran_Bekkanti\source\repos\DisposableExample\DisposableExample\obj\Debug\DisposableExample.exe
+C:\Users\Saikiran_Bekkanti\source\repos\DisposableExample\DisposableExample\obj\Debug\DisposableExample.pdb

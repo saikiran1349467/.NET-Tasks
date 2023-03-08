@@ -1,0 +1,8 @@
+C:\Users\Saikiran_Bekkanti\source\repos\4waysOp\4waysOp\bin\Debug\4waysOp.exe.config
+C:\Users\Saikiran_Bekkanti\source\repos\4waysOp\4waysOp\bin\Debug\4waysOp.exe
+C:\Users\Saikiran_Bekkanti\source\repos\4waysOp\4waysOp\bin\Debug\4waysOp.pdb
+C:\Users\Saikiran_Bekkanti\source\repos\4waysOp\4waysOp\obj\Debug\4waysOp.csproj.AssemblyReference.cache
+C:\Users\Saikiran_Bekkanti\source\repos\4waysOp\4waysOp\obj\Debug\4waysOp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saikiran_Bekkanti\source\repos\4waysOp\4waysOp\obj\Debug\4waysOp.csproj.CoreCompileInputs.cache
+C:\Users\Saikiran_Bekkanti\source\repos\4waysOp\4waysOp\obj\Debug\4waysOp.exe
+C:\Users\Saikiran_Bekkanti\source\repos\4waysOp\4waysOp\obj\Debug\4waysOp.pdb
