@@ -1,0 +1,8 @@
+C:\Users\Saikiran_Bekkanti\source\repos\QueueGen\QueueGen\obj\Debug\QueueGen.csproj.AssemblyReference.cache
+C:\Users\Saikiran_Bekkanti\source\repos\QueueGen\QueueGen\obj\Debug\QueueGen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saikiran_Bekkanti\source\repos\QueueGen\QueueGen\obj\Debug\QueueGen.csproj.CoreCompileInputs.cache
+C:\Users\Saikiran_Bekkanti\source\repos\QueueGen\QueueGen\bin\Debug\QueueGen.exe.config
+C:\Users\Saikiran_Bekkanti\source\repos\QueueGen\QueueGen\bin\Debug\QueueGen.exe
+C:\Users\Saikiran_Bekkanti\source\repos\QueueGen\QueueGen\bin\Debug\QueueGen.pdb
+C:\Users\Saikiran_Bekkanti\source\repos\QueueGen\QueueGen\obj\Debug\QueueGen.exe
+C:\Users\Saikiran_Bekkanti\source\repos\QueueGen\QueueGen\obj\Debug\QueueGen.pdb

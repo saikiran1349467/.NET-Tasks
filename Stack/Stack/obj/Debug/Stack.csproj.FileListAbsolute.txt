@@ -1,0 +1,8 @@
+C:\Users\Saikiran_Bekkanti\source\repos\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\Saikiran_Bekkanti\source\repos\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\Saikiran_Bekkanti\source\repos\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\Saikiran_Bekkanti\source\repos\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\Saikiran_Bekkanti\source\repos\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saikiran_Bekkanti\source\repos\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Saikiran_Bekkanti\source\repos\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\Saikiran_Bekkanti\source\repos\Stack\Stack\obj\Debug\Stack.pdb
