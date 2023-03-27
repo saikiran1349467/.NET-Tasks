@@ -1,0 +1,8 @@
+C:\Users\Saikiran_Bekkanti\source\repos\StackNg\StackNg\bin\Debug\StackNg.exe.config
+C:\Users\Saikiran_Bekkanti\source\repos\StackNg\StackNg\bin\Debug\StackNg.exe
+C:\Users\Saikiran_Bekkanti\source\repos\StackNg\StackNg\bin\Debug\StackNg.pdb
+C:\Users\Saikiran_Bekkanti\source\repos\StackNg\StackNg\obj\Debug\StackNg.csproj.AssemblyReference.cache
+C:\Users\Saikiran_Bekkanti\source\repos\StackNg\StackNg\obj\Debug\StackNg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saikiran_Bekkanti\source\repos\StackNg\StackNg\obj\Debug\StackNg.csproj.CoreCompileInputs.cache
+C:\Users\Saikiran_Bekkanti\source\repos\StackNg\StackNg\obj\Debug\StackNg.exe
+C:\Users\Saikiran_Bekkanti\source\repos\StackNg\StackNg\obj\Debug\StackNg.pdb

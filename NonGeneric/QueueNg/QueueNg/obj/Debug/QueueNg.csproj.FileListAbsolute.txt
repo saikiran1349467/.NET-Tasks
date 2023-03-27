@@ -1,0 +1,8 @@
+C:\Users\Saikiran_Bekkanti\source\repos\QueueNg\QueueNg\bin\Debug\QueueNg.exe.config
+C:\Users\Saikiran_Bekkanti\source\repos\QueueNg\QueueNg\bin\Debug\QueueNg.exe
+C:\Users\Saikiran_Bekkanti\source\repos\QueueNg\QueueNg\bin\Debug\QueueNg.pdb
+C:\Users\Saikiran_Bekkanti\source\repos\QueueNg\QueueNg\obj\Debug\QueueNg.csproj.AssemblyReference.cache
+C:\Users\Saikiran_Bekkanti\source\repos\QueueNg\QueueNg\obj\Debug\QueueNg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saikiran_Bekkanti\source\repos\QueueNg\QueueNg\obj\Debug\QueueNg.csproj.CoreCompileInputs.cache
+C:\Users\Saikiran_Bekkanti\source\repos\QueueNg\QueueNg\obj\Debug\QueueNg.exe
+C:\Users\Saikiran_Bekkanti\source\repos\QueueNg\QueueNg\obj\Debug\QueueNg.pdb
